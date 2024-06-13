@@ -1,0 +1,24 @@
+.slideLetterOut {
+    animation: slideLetterOutAnimation 1s linear forwards;
+    animation-delay: 1s;
+    z-index: 0;
+}
+
+@keyframes slideLetterOutAnimation {
+    0% {
+        transform: translateY(0);
+        z-index: 3;
+    }
+    33% {
+        transform: translateY(-110%);
+        z-index: 5;
+    }
+    66% {
+        transform: translateY(0%);
+        z-index: 5;
+    }
+    100% {
+        transform: scale(200%);
+        z-index: 5;
+    }
+}

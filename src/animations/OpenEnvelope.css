@@ -1,0 +1,13 @@
+.openEnvelope {
+    animation: openEnvelopeAnimation 1s linear forwards; /* 'forwards' keeps the final state of the animation */
+    transform-origin: top;
+}
+
+@keyframes openEnvelopeAnimation {
+    0% {
+        transform: rotateX(0);
+    }
+    100% {
+        transform: rotateX(0.5turn);
+    }
+}
