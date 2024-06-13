@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Kang-Quan/secret.git/static/css/main.f855e6bc.css",
+    "main.js": "/Kang-Quan/secret.git/static/js/main.2f60de46.js",
+    "static/js/453.6aab8244.chunk.js": "/Kang-Quan/secret.git/static/js/453.6aab8244.chunk.js",
+    "index.html": "/Kang-Quan/secret.git/index.html",
+    "main.f855e6bc.css.map": "/Kang-Quan/secret.git/static/css/main.f855e6bc.css.map",
+    "main.2f60de46.js.map": "/Kang-Quan/secret.git/static/js/main.2f60de46.js.map",
+    "453.6aab8244.chunk.js.map": "/Kang-Quan/secret.git/static/js/453.6aab8244.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.2f60de46.js"
+  ]
+}
